@@ -1,3 +1,5 @@
+### BEGIN jlaison_ibrary ###
+
 from pygments.token import Error
 import math
 import random
